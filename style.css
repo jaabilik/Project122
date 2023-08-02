@@ -1,0 +1,14 @@
+body {
+    background-image: url('9a480097af44131bc09e83ffe712de94.jpg');
+    background-size: cover;
+}
+
+h1 {
+    background-color: rgba(240, 248, 255, 0.55);
+    width: 300px;
+    color: rgb(50, 50, 72);
+}
+
+canvas {
+    background-color: white;
+}
